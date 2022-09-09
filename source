@@ -765,4 +765,6 @@ TeleportSection:NewButton("Admin Base", ".", function()
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-798.440125, -39.6511765, -886.799744, -0.998008013, -8.64215224e-08, 0.0630868599, -8.44452828e-08, 1, 3.39919985e-08, -0.0630868599, 2.85968991e-08, -0.998008013)
 end)
 
-
+TeleportSection:NewButton("High-Medium Armor", ".", function()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-933.977661, -28.1774769, 561.752991, -0.999987125, -4.86723941e-08, -0.00507875765, -4.8912284e-08, 1, 4.71094204e-08, 0.00507875765, 4.73572257e-08, -0.999987125)
+end)
